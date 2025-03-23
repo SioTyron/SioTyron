@@ -32,6 +32,6 @@ I am currently pursuing studies in **[Web Development, Software Development, Cyb
 
 ### 📫 How to Reach Me
 
-- 🌐 **Website/Portfolio:** [Click Here](https://tyrondechadirac.streamlit.app/)
+- 🌐 **Portfolio:** [Click Here](https://tyrondechadirac.streamlit.app/)
 - 📧 **Email:** certificat.tyron@gmail.com
 - 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tyron-de-chadirac-lara-1551322a3/)
